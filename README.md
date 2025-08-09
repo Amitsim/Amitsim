@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 I’m **Amit Simanovsky**, a software engineer specializing in **high-performance distributed systems**, **real-time networking**, and **cloud-native scalable architectures**.
-
-🚀 Currently building a **server-authoritative multiplayer platform** in modern C++ with zero-overhead native-managed interop, deterministic physics, and custom build pipelines designed for ultra-low latency and massive scalability.
-
 ---
 
 ### 🛠️ Languages & Tools
@@ -90,16 +87,6 @@ I’m **Amit Simanovsky**, a software engineer specializing in **high-performanc
 </a>
 </div>
 
-
-
-### 🔭 Featured Project  
-**Multiplayer Platform — Modern C++ & .NET Core runtime hosting**  
-- Server-authoritative, scalable distributed system with deterministic physics and custom real-time networking.  
-- Zero-overhead native-managed interop via custom function-pointer ABI — 10x faster than traditional P/Invoke.  
-- Automated secure Roslyn-based code compilation and sandboxed execution pipeline.  
-- Multi-region matchmaking with isolated Linux runtime environments supporting hundreds of concurrent players.
-
----
 
 ### 📫 Connect with me  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amitsim)  
